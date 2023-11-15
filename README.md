@@ -1,1 +1,1 @@
-# sparta-ph-data-science-pathway
+# Project Files for the Data Science Pathway of SPARTA Philippines
